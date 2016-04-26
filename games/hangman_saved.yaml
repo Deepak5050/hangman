@@ -1,0 +1,15 @@
+--- !ruby/object:Hangman
+word:
+- l
+- a
+- i
+- d
+guess:
+- l
+- a
+- i
+- _
+guess_letter: l
+missed:
+- c
+- k
